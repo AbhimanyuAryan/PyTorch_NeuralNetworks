@@ -4,6 +4,8 @@
 - NN for Linear Regression using SGD
 - NN for Hand Written Number Recognition
 
+# Visual SGD Representation
+https://forums.fast.ai/t/share-your-work-here/27676/300
 
 ## DataSet:
 - MNIST Hand Written: http://deeplearning.net/data/mnist/
